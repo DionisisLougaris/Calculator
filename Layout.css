@@ -1,0 +1,30 @@
+﻿body {
+    background-color: #b3ffda;
+}
+#titleLabel{
+    color :#29293d;
+    font-size: 50px;
+}
+.labels{
+    color :#29293d;
+    font-size: 20px;
+}
+#addButton{
+    background: url('/images/add_70px.png') no-repeat ;
+   
+}
+#subtractButtton{
+    background: url('/images/minus_70px.png') no-repeat ;
+   
+}
+#multiplyButton{
+    background: url('/images/multiplication_70px.png') no-repeat ;
+    
+}
+#divideButton{
+    background: url('/images/division_70px.png') no-repeat ;
+
+}
+#clearButton{
+    background: url('/images/broom_70px.png') no-repeat ;
+}
